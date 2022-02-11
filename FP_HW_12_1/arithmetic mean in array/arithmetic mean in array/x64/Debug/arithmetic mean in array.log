@@ -1,0 +1,20 @@
+﻿  arithmetic mean in array.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 12\arithmetic mean in array\arithmetic mean in array\arithmetic mean in array.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 12\arithmetic mean in array\arithmetic mean in array\arithmetic mean in array.cpp(44): message : выполняется компиляция ссылки на экземпляр шаблон функции "void initArray<double,int>(T [],N)"
+          with
+          [
+              T=double,
+              N=int
+          ]
+C:\Users\expte\Desktop\ДЗ\С++\Задание 12\arithmetic mean in array\arithmetic mean in array\arithmetic mean in array.cpp(28,23): warning C4244: +=: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+C:\Users\expte\Desktop\ДЗ\С++\Задание 12\arithmetic mean in array\arithmetic mean in array\arithmetic mean in array.cpp(46): message : выполняется компиляция ссылки на экземпляр шаблон функции "T calculateArithmeticMean<double,int>(T [],N)"
+          with
+          [
+              T=double,
+              N=int
+          ]
+  arithmetic mean in array.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 12\arithmetic mean in array\x64\Debug\arithmetic mean in array.exe
