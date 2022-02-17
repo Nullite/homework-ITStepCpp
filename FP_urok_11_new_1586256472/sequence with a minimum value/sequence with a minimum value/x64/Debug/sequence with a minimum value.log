@@ -1,0 +1,4 @@
+﻿  sequence with a minimum value.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 13\sequence with a minimum value\sequence with a minimum value\sequence with a minimum value.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\expte\Desktop\ДЗ\С++\Задание 13\sequence with a minimum value\sequence with a minimum value\sequence with a minimum value.cpp(34): warning C4715: searchIndex: значение возвращается не при всех путях выполнения
+  sequence with a minimum value.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 13\sequence with a minimum value\x64\Debug\sequence with a minimum value.exe
