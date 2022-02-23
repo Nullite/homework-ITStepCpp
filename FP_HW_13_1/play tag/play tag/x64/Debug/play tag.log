@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\expte\Desktop\ДЗ\С++\Задание 14\FP_HW_13_1\play tag\play tag\logic.h(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  play tag.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\Задание 14\FP_HW_13_1\play tag\x64\Debug\play tag.exe
